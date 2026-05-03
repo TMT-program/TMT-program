@@ -11,7 +11,7 @@
 
 - 💼 SIer企業にて8年間、要件整理〜設計〜実装〜テスト〜運用保守まで一貫して経験
 - 🌐 フロントエンド・バックエンド両方対応できるフルスタック志向
-- 🤖 AIの業務活用・システム組み込みに積極的に取り組んでいます（ChatGPT / Gemini / RAG）
+- 🤖 AIの業務活用・システム組み込みに積極的に取り組んでいます（Claude / ChatGPT / Gemini）
 - 📝 学んだことを技術日記にまとめています
 
 ---
@@ -39,8 +39,10 @@
 
 **AI / Tools**
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -63,12 +65,14 @@
 
 ## 📊 職務経歴
 
-| 期間 | 案件概要 | 主な技術 |
-|------|---------|---------|
-| 2024年4月〜2026年1月 | 法人向け仮想スマホシステム開発 | React / TypeScript / Node.js / Electron / Linux |
-| 2022年9月〜2024年3月 | 光回線設計計算ツール開発 | Java / VBA / Jenkins / Azure Pipelines |
-| 2019年8月〜2022年8月 | 携帯基地局データ管理システム開発 | Java / C言語 / Oracle DB |
-| 2018年7月〜2019年7月 | 電力供給システム開発・運用 | Linux / Shell Script / Oracle DB |
+SIer企業にて以下のような業務に携わってきました。
+
+| 案件概要 | 主な技術 |
+|---------|---------|
+| モバイルからクラウド環境へアクセスし、Windowsライクな操作でファイル管理を行えるWebアプリの開発 | React / TypeScript / Node.js / Electron / Linux |
+| 光回線の距離・波長・構成に基づく設計計算ツールの開発・保守 | Java / VBA / Jenkins / Azure Pipelines |
+| 携帯基地局データ管理システムの詳細設計・開発・保守 | Java / C言語 / Oracle DB |
+| 電力供給監視システムの運用・リリース管理・自動化対応 | Linux / Shell Script / Oracle DB |
 
 ---
 
